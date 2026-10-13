@@ -1,5 +1,1 @@
-
-<a href="https://www.stromsend.xyz/#/register?code=tIhaARYV">
-  <img src="screenshots/unnamed.jpg" alt="友情推荐" />
-</a>
   <img src="screenshots/screenshot.png">
